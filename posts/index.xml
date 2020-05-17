@@ -1,56 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on حمید روحی</title>
-    <link>https://hamidrouhi.github.io/hamidrouhi/posts/</link>
-    <description>Recent content in Posts on حمید روحی</description>
+    <title>Posts on حمید روحی  | محلی برای یادداشت‌های هر از گاهی</title>
+    <link>http://hamidrouhi.github.io/posts/</link>
+    <description>Recent content in Posts on حمید روحی  | محلی برای یادداشت‌های هر از گاهی</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fa</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <language>fa-IR</language>
+    <lastBuildDate>Sun, 17 May 2020 01:22:15 +0430</lastBuildDate>
     
-	<atom:link href="https://hamidrouhi.github.io/hamidrouhi/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hamidrouhi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://hamidrouhi.github.io/hamidrouhi/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hamidrouhi.github.io/hamidrouhi/posts/creating-a-new-theme/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo.&lt;/p&gt;</description>
-    </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://hamidrouhi.github.io/hamidrouhi/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>شروع</title>
+      <link>http://hamidrouhi.github.io/posts/%D8%B4%D8%B1%D9%88%D8%B9/</link>
+      <pubDate>Sun, 17 May 2020 01:22:15 +0430</pubDate>
       
-      <guid>https://hamidrouhi.github.io/hamidrouhi/posts/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://hamidrouhi.github.io/hamidrouhi/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hamidrouhi.github.io/hamidrouhi/posts/goisforlovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://hamidrouhi.github.io/hamidrouhi/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hamidrouhi.github.io/hamidrouhi/posts/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;</description>
+      <guid>http://hamidrouhi.github.io/posts/%D8%B4%D8%B1%D9%88%D8%B9/</guid>
+      <description>سلام بعد از یکمی وَر رفتن با هوگو (به انگلیسی-(Hugo یه وبلاگ خیلی ساده و مینیمال، استاتیک به روش [جم‌اِستک] (در این‌جا در موردش بخونید.) ایجاد کردم. امیدوارم بتونم در این وبلاگ مطالب مفیدی رو ارائه بدم. به مرور وبلاگ به‌روز‌ خواهد شد. (قالب-محتوا-فرمت) راستی من از ویرایشگر مُرتّب برای نوشتن مطالب استفاده می‌کنم. برای میزبانی صفحات وبلاگ از امکان پِیجز(pages) گیت‌هاب استفاده می‌کنم.
+باتشکر</description>
     </item>
     
   </channel>
