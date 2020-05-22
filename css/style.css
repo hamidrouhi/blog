@@ -304,9 +304,9 @@ h2 {
 
 .profile #avatar {
   display: inline-block;
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  border-radius: 14%;
   margin-bottom: 20px;
 }
 
@@ -329,7 +329,7 @@ h2 {
 nav.main-nav {
   padding: 20px 20px 0;
   margin: 0 auto;
-  text-align: left;
+  text-align: right;
   z-index: 100;
 }
 
@@ -340,7 +340,7 @@ nav.main-nav a {
   color: #ba0d0d;
   font-size: 13px;
   line-height: 1.35;
-  border-radius: 3px;
+  border-radius: 14px;
 }
 nav.main-nav a:hover {
   color: #f3206e;
@@ -356,7 +356,7 @@ nav.main-nav a.cta {
   nav.main-nav {
     padding: 20px 10px 0 0;
     margin: 0 auto;
-    text-align: left;
+    text-align: right;
     z-index: 100;
   }
   nav.main-nav a {
@@ -366,7 +366,7 @@ nav.main-nav a.cta {
     color: #ba0d0d;
     font-size: 13px;
     line-height: 1.35;
-    border-radius: 3px;
+    border-radius: 14px;
   }
 }
 @media (max-width: 324px) {
@@ -391,7 +391,7 @@ nav.main-nav a.cta {
   float: right;
   width: 40px;
   height: 40px;
-  border-radius: 50%;
+  border-radius: 14%;
 }
 
 /* Typography */
@@ -512,6 +512,7 @@ i {
   font-size: 13px;
   letter-spacing: 1px;
   display: inline-block;
+  direction: rtl;
 }
 
 .post h2.headline .tags {
@@ -725,7 +726,7 @@ Post List
 }
 
 #footer * {
-  direction: ltr;
+  direction: rtl;
 }
 
 /* Post Page */
@@ -970,6 +971,7 @@ h2.month {
   }
   .post h2.headline {
     font-size: 13px;
+
   }
   .post h1 {
     font-size: 24px;
